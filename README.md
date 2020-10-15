@@ -1,0 +1,2 @@
+# TalentAssessment
+被证实十分有效的评估IT技术人才的测评方法
